@@ -1,0 +1,3 @@
+mengapa pemrograman visual itu penting ?
+pemrograman visual adalah pemrograman yang menggambarkan proses menggunakan ilustrasi, dengan kata lain pemrograman visual adalah menterjemahkan kebutuhan manusia ke dalam proses yang sesuai dengan kemampuan komputer yang terbatas
+pemrograman visual mendeskripsikan proses sesuai alur, bagaimana setiap tahap yang terjadi.
